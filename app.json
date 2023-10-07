@@ -1,4 +1,7 @@
 {
   "name": "eslfeed",
-  "displayName": "eslfeed"
+  "displayName": "eslfeed",
+  "apiPostsUrl": "https://jsonplaceholder.typicode.com/posts",
+  "apiUsersUrl": "https://jsonplaceholder.typicode.com/users",
+  "apiUserAvatarUrl": "https://ui-avatars.com/api/?name="
 }

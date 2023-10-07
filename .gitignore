@@ -24,7 +24,6 @@ ios/.xcode.env.local
 
 # Android/IntelliJ
 #
-build/
 .idea
 .gradle
 local.properties
@@ -64,3 +63,7 @@ yarn-error.log
 
 # testing
 /coverage
+
+# react-native-ultimate-config
+.env
+rnuc.xcconfig

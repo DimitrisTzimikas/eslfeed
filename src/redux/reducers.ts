@@ -1,11 +1,12 @@
 /* Libraries */
 import {combineReducers} from 'redux';
+
 /* Local Files */
-import {language} from './language.js';
+import {feedReducer} from './ducks/feed.duck';
 
 /* Reducers */
 const reducers = combineReducers({
-  language,
+  feed: feedReducer,
 });
 
 export {reducers};
